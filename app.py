@@ -8,6 +8,9 @@ import matplotlib.pyplot as plt
 import plotly.graph_objects as go
 import path
 
+dir = path.Path(__file__).abspath()
+sys.path.append(dir.parent.parent)
+
 model = load_model('/Users/vaishnavimhaske/Documents/Jupyter Notebooks/Stock Prediction Model.keras')
 
 st.header('Stock Market Predictor')
