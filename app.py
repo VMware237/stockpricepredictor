@@ -7,7 +7,7 @@ import streamlit as st
 import matplotlib.pyplot as plt
 import plotly.graph_objects as go
 
-model = load_model('')
+model = load_model('Stock Prediction Model.keras')
 
 st.header('Stock Market Predictor')
 
