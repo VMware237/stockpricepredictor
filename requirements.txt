@@ -1,7 +1,5 @@
 numpy
 pandas
-path
-sys
 yfinance
 keras
 tensorflow
