@@ -7,6 +7,7 @@ import streamlit as st
 import matplotlib.pyplot as plt
 import plotly.graph_objects as go
 import path
+import sys
 
 dir = path.Path(__file__).abspath()
 sys.path.append(dir.parent.parent)
