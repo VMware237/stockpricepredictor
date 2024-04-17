@@ -1,5 +1,6 @@
 numpy
 pandas
+path
 yfinance
 keras
 tensorflow
@@ -7,4 +8,3 @@ streamlit
 matplotlib
 scikit-learn
 plotly
-path
