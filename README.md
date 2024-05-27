@@ -25,7 +25,7 @@ This project entailed the analysis and prediction of Apple Inc.'s stock prices, 
 ### Seamless Deployment
 - **Action**: Developed an intuitive web application using Streamlit.
 - **Outcome**: Offered easy access and interaction with predictive analytics, managed version control via GitHub for continuous integration and deployment.
-
+<img width="1470" alt="Screenshot 2024-05-27 at 7 52 11 PM" src="https://github.com/VMware237/stockpricepredictor/assets/159841485/5624a599-8d21-47ed-a7f4-b3ea1d5c6551">
 
 ## Prerequisites
 - Python 3.7+
