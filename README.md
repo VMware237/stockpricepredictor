@@ -26,6 +26,7 @@ This project entailed the analysis and prediction of Apple Inc.'s stock prices, 
 - **Action**: Developed an intuitive web application using Streamlit.
 - **Outcome**: Offered easy access and interaction with predictive analytics, managed version control via GitHub for continuous integration and deployment.
 
+
 ## Prerequisites
 - Python 3.7+
 - GitHub Account
